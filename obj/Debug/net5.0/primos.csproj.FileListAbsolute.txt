@@ -1,0 +1,16 @@
+C:\Users\Samuel Marin\Documents\Sistemas\Programacion Concurrente\.NET\Primos\bin\Debug\net5.0\primos.exe
+C:\Users\Samuel Marin\Documents\Sistemas\Programacion Concurrente\.NET\Primos\bin\Debug\net5.0\primos.deps.json
+C:\Users\Samuel Marin\Documents\Sistemas\Programacion Concurrente\.NET\Primos\bin\Debug\net5.0\primos.runtimeconfig.json
+C:\Users\Samuel Marin\Documents\Sistemas\Programacion Concurrente\.NET\Primos\bin\Debug\net5.0\primos.runtimeconfig.dev.json
+C:\Users\Samuel Marin\Documents\Sistemas\Programacion Concurrente\.NET\Primos\bin\Debug\net5.0\primos.dll
+C:\Users\Samuel Marin\Documents\Sistemas\Programacion Concurrente\.NET\Primos\bin\Debug\net5.0\ref\primos.dll
+C:\Users\Samuel Marin\Documents\Sistemas\Programacion Concurrente\.NET\Primos\bin\Debug\net5.0\primos.pdb
+C:\Users\Samuel Marin\Documents\Sistemas\Programacion Concurrente\.NET\Primos\obj\Debug\net5.0\primos.csproj.AssemblyReference.cache
+C:\Users\Samuel Marin\Documents\Sistemas\Programacion Concurrente\.NET\Primos\obj\Debug\net5.0\primos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Marin\Documents\Sistemas\Programacion Concurrente\.NET\Primos\obj\Debug\net5.0\primos.AssemblyInfoInputs.cache
+C:\Users\Samuel Marin\Documents\Sistemas\Programacion Concurrente\.NET\Primos\obj\Debug\net5.0\primos.AssemblyInfo.cs
+C:\Users\Samuel Marin\Documents\Sistemas\Programacion Concurrente\.NET\Primos\obj\Debug\net5.0\primos.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Marin\Documents\Sistemas\Programacion Concurrente\.NET\Primos\obj\Debug\net5.0\primos.dll
+C:\Users\Samuel Marin\Documents\Sistemas\Programacion Concurrente\.NET\Primos\obj\Debug\net5.0\ref\primos.dll
+C:\Users\Samuel Marin\Documents\Sistemas\Programacion Concurrente\.NET\Primos\obj\Debug\net5.0\primos.pdb
+C:\Users\Samuel Marin\Documents\Sistemas\Programacion Concurrente\.NET\Primos\obj\Debug\net5.0\primos.genruntimeconfig.cache
